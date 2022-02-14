@@ -1,0 +1,21 @@
+{
+    "name": "azimov9",
+    "displayName": "azimov9",
+    "description": "dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "azimov9 theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/azimov9 theme-color-theme.json"
+            }
+        ]
+    }
+}
