@@ -17,5 +17,16 @@
                 "path": "./themes/azimov9 theme-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "icons/azimov9.png",
+    "author": {
+        "name": "Ahv3-Christian",
+        "email": "3avliy@gmail.com"
+
+    },
+    "repository": {
+        "url": "https://github.com/Ahv3-Christian/theme-azimov9-vs.git",
+        "type": "git"
+    },
+    "publisher": "azimovvv"
 }
